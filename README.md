@@ -3,27 +3,28 @@
 **Programmer / Developer / (Sr) Software Engineer**
 
 <!--- Redacting stuff becouse I can. --->
-
 | [███████████████████][l1] | [█████████████████][l2]   | [████████████████████████][l3] |
 |---------------------------|---------------------------|--------------------------------|
 | [LinkedIn/Picknell][l4]   |[GitHub/Mark-Picknell][l5] |                                |
+
+## Introduction:
 
 Java & C# Software Engineer with 10+ years in enterprise systems,
 specializing in refactoring legacy codebases and building maintainable
 solutions. Experienced in financial services, agile teams, and full SDLC.
 
-## Skills
+## Skills:
 
 * **Languages & Frameworks:** Java (JSE/JEE/JSP/JSF), C#/.NET, C++, COBOL
 * **Databases**: Oracle, MS SQL Server, DB2, MySQL
 * **Tools & Platforms:** Git, Maven, TFS, SSRS, SSIS, JCL, CICS
 * **Other:** Agile/Scrum, Design Patterns, Legacy System Modernization
 
-## Experience
+## Experience:
 
 ### **Wells Fargo Home Mortgage** ▸ *██████████████*
 
-#### **Sr. Software Engineer** *SSE*  ▸ *Jun 2014 → Aug 2024*
+#### **Sr. Software Engineer** ▸ *Jun 2014 → Aug 2024*
 
 * Worked on a Jira-driven *agile* team to effectively implement solutions
   and deploy to non-production environments.
