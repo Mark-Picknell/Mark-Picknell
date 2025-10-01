@@ -3,9 +3,11 @@
 **Programmer / Developer / (Sr) Software Engineer**
 
 <!--- Redacting stuff becouse I can. --->
-| [███████████████████][l1] | [█████████████████][l2]   | [████████████████████████][l3] |
-|---------------------------|---------------------------|--------------------------------|
-| [LinkedIn/Picknell][l4]   |[GitHub/Mark-Picknell][l5] |                                |
+
+<!--- Strange that the tel: URI scheme isn't supported?--->
+| [████████, IA █████][mp] | [████████████████][cp]  | [████████████████████████][gm] |
+|--------------------------|-------------------------|--------------------------------|
+|                          | [LinkedIn/Picknell][ln] | [GitHub/Mark-Picknell][gh]     |
 
 ## Introduction:
 
@@ -22,7 +24,7 @@ solutions. Experienced in financial services, agile teams, and full SDLC.
 
 ## Experience:
 
-### **Wells Fargo Home Mortgage** ▸ *██████████████*
+### **Wells Fargo Home Mortgage** ▸ ██████████, IA
 
 #### **Sr. Software Engineer** ▸ *Jun 2014 → Aug 2024*
 
@@ -46,7 +48,7 @@ I really want to find the actule dates I got promoted
 #### **Application Support Engineer** ▸ *Mon 20XX → Mon 20XX*
 --->
 
-### *Strategic Staffing Solutions* ▸ ██████████████
+### *Strategic Staffing Solutions* ▸ ██████████, IA
 
 #### **Contractor:Wells Fargo Home Mortgage** ▸ *Jun 2014 → Aug 2024*
 
@@ -56,7 +58,7 @@ I really want to find the actule dates I got promoted
 * Generated reports for tracking requests through the imaging system and
   statistics of requests handled with support intervention.
 
-### **CUNA Mutual Group** ▸ ███████████
+### **CUNA Mutual Group** ▸ Waverly, IA
 
 #### **Programmer** ▸ *Aug 2011 - Jun 2013*
 
@@ -72,7 +74,7 @@ I really want to find the actule dates I got promoted
 
 ## Education
 
-### **Indian Hills Community Collage** ▸ ███████████
+### **Indian Hills Community Collage** ▸ Ottumwa, IA
 
 #### **Associate of Applied Science** on *May 2012*
 **Majors:** ▸ *Aug 2009 → Nov 2011*
@@ -80,9 +82,8 @@ I really want to find the actule dates I got promoted
 * Systems Analyst
 
 <!--- Links --->
-
-[L1]: https://www.google.com/maps/place/IA/ "🗺️ REDACTED"
-[L2]: tel:+19871234560                      "📲 REDACTED"
-[L3]: mailto:REDACTED                       "📨 REDACTED"
-[L4]: http://www.linkedin.com/in/picknell   "LinkedIn"
-[L5]: https://github.com/Mark-Picknell      "GitHub"
+[mp]: https://www.google.com/maps/place/IA/  "🗺️ My Location"
+[cp]: tel:+14155552671                       "📲 Call"
+[gm]: mailto:REDACTED                        "📨 eMail"
+[ln]: http://www.linkedin.com/in/picknell    "LinkedIn"
+[gh]: https://github.com/Mark-Picknell       "GitHub"
